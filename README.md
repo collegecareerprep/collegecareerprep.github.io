@@ -1,4 +1,4 @@
 <iframe 
  object-fit: contain;
-src="https://collegeprep.up.railway.app/">
+src="https://collegeprep.up.railway.app">
 </iframe>

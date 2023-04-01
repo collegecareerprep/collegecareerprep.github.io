@@ -6,7 +6,7 @@
    
       <body>
 <iframe
-    width="1366"
+    width="975"
     height="768"
     src="https://collegeprep.up.railway.app">
 </iframe>
